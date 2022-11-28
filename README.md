@@ -1,16 +1,24 @@
 # pokedex
 
-A new Flutter project.
+Pokedex Using Flutter
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/37372160/204279331-f4ccf85d-8e96-4656-99c5-463b6ae43e19.png)
 
-This project is a starting point for a Flutter application.
+## :rocket: Getting started
+``` 
+  # Clone the repository:
+  $ https://github.com/IffatAhmedk/pokedex/
 
-A few resources to get you started if this is your first Flutter project:
+  # Enter directory:
+  $ cd pokedex
+  
+  # Install dependencies:
+  $ flutter pub get
+  
+  # Run App:
+  $ flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Data from: https://graphql-pokeapi.graphcdn.app/
+# :thought_balloon: Inspiration
+- Design inspired by [Pokedex App design](https://dribbble.com/shots/6563578-Pokedex-App-Animation) mabe by [Saepul Nahwan](https://www.instagram.com/saepulnahwan/).
